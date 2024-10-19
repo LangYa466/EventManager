@@ -5,7 +5,13 @@
 
 ## 添加进项目
 IDEA:
-项目结构>>库>>新建项目库>>java>>选择https://github.com/LangYa466/EventManager/releases/tag/1.0下载的jar
+项目结构>>
+库>>
+新建项目库>>
+java>>
+选择
+https://github.com/LangYa466/EventManager/releases/tag/1.0
+下载的jar
 
 ## 初始化事件管理系统
 ```java
